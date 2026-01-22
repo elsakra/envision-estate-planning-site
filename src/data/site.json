@@ -1,0 +1,99 @@
+{
+  "company": {
+    "name": "Envision Estate Planning LLC",
+    "tagline": "Estate Planning with heart!",
+    "description": "Envision Estate Planning LLC is an estate planning law office that CELEBRATES FAMILY and delivers outstanding service and specialized care and attention to families, traditional and non-traditional, and young professionals and students who are largely underserved within the estate planning industry. Our mission is to plan with heart while delivering exceptional service to every client.",
+    "phone": "781-874-4674",
+    "email": "info@envision.law",
+    "address": "16 Harvard Ave. Medford, MA 02155",
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769108009/auto-site-builder/Envision%20Estate%20Planning/image_0.png",
+    "primaryColor": "#1e3a5f",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Estate Planning with heart!",
+    "subheadline": "Envision a place where you feel comfortable. Envision a place where you do not feel beholden to a clock. Envision a place where you can ask questions and get clear answers. Envision a place where you will feel cared for. Now, envision yourself here.",
+    "cta": {
+      "label": "LEARN MORE",
+      "href": "/about"
+    },
+    "secondaryCta": {
+      "label": "CONTACT US",
+      "href": "/contact"
+    },
+    "backgroundImage": "https://res.cloudinary.com/dil14r8je/image/upload/v1769108009/auto-site-builder/Envision%20Estate%20Planning/image_3.jpg",
+    "imageOpacity": 60
+  },
+  "sections": {
+    "about": {
+      "headline": "About Envision Estate Planning LLC",
+      "content": "Envision Estate Planning LLC is an estate planning law office that CELEBRATES FAMILY and delivers outstanding service and specialized care and attention to families, traditional and non-traditional, and young professionals and students who are largely underserved within the estate planning industry. Our mission is to plan with heart while delivering exceptional service to every client. Traditional estate planning typically targets and primarily serve people nearing end of their life, but we realize that often young families, professionals, and students are ignored even though estate planning is relevant and vitally important at all stages of life. At envision estate planning we plan with heart - clients are never on a clock, we only charge flat fees, and we believe every person and every family is different.",
+      "image": "https://res.cloudinary.com/dil14r8je/image/upload/v1769108009/auto-site-builder/Envision%20Estate%20Planning/image_8.jpg",
+      "values": [
+        {
+          "title": "Never On A Clock",
+          "description": "Planning takes time. Feeling beholden to a clock creates pressure. We believe a fruitful relationship is one where you never feel pressured or stressed."
+        },
+        {
+          "title": "Limited Client Base",
+          "description": "We place limits on the number of clients we serve monthly so that you get the attention and time that you deserve."
+        },
+        {
+          "title": "Always Helpful",
+          "description": "We will always work toward providing you with helpful information, resources, and referrals whether we do business or not."
+        }
+      ]
+    },
+    "services": {
+      "headline": "Our Services"
+    },
+    "team": {
+      "headline": "Our Attorneys"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "GET IN TOUCH",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Envision Estate Planning LLC. All Rights Reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Estate Planning Attorney in Massachusetts - Estate Planning Attorney in Boston | Envision Estate Planning LLC",
+    "description": "Provides families with heartfelt estate planning, information, and educational resources to help them make decisions to safeguard their children."
+  },
+  "theme": "light",
+  "vibe": "community"
+}
